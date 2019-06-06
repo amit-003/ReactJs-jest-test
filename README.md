@@ -1,3 +1,8 @@
+To get started, you will need to familiarize yourself with the following:
+
+1.React - A JavaScript library for building delightful UI by Facebook
+2.Jest - A JavaScript testing framework by Facebook.
+
 ### Setup
 
 To clone the repository on your computer 

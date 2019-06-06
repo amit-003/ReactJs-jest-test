@@ -1,8 +1,9 @@
 To get started, you will need to familiarize yourself with the following:
 
 1.React - A JavaScript library for building delightful UI by Facebook
+ (https://reactjs.org/)
 
-2.Jest - A JavaScript testing framework by Facebook.
+2.Jest - A JavaScript testing framework by Facebook(    (https://facebook.github.io/jest/docs/en/getting-started.html))
 
 ### Setup
 
